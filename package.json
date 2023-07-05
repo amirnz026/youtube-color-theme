@@ -2,7 +2,7 @@
   "name": "youtube-color-theme",
   "displayName": "youtube-color-theme",
   "description": "Youtube Color Theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "codegenix",
   "engines": {
     "vscode": "^1.78.0"
